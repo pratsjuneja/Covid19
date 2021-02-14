@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Face Mask Detection
 Due to the recent pandemic, wearing a FaceMask has been made mandatory across the nation. There has been a certain amount of pushback to this policy, causing stores to actually use their staff to routinely stand at the door and remove people not wearing a mask. The goal of this project is to come up with a way to detect if a FaceMask is being worn by an individual correctly. 
 ### Markdown
 
