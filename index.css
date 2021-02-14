@@ -1,0 +1,14 @@
+#body{
+    border: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+#left{
+    width: 80%;
+}
+
+#right{
+    width: 20%;
+}
